@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const markdownFiles = [
       'chatgptWeakness20230828.md',
       'AIVideo20230903.md',
+
       // Add other Markdown files here
     ];
   
